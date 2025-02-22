@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    background-color: darkblue;
+    padding: 10px;
+    border-radius: 5px;
+}
